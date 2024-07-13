@@ -183,7 +183,7 @@ public class gamePanel extends JPanel implements ActionListener{
 */
 
 
-package Projects.snake_game;
+package snake_game;
 
 import java.awt.*;
 import java.awt.event.*;

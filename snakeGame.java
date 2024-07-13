@@ -1,5 +1,5 @@
 
-package Projects.snake_game;
+package snake_game;
 
 public class snakeGame {
     public static void main(String[] args) {
